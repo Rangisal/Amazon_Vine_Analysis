@@ -13,3 +13,7 @@ This contains reviews of a specific toys and used PySpark to perform the ETL pro
 - How many non-Vine reviews were 5 stars? 16090
 - What percentage of Vine reviews were 5 stars? 48%
 - What percentage of non-Vine reviews were 5 stars? 47%
+
+## Summary 
+According to the above summary the percentage of 5 star reviews for each paid and unpaid very close in numbers. 48% and 47% 
+This analysis does not show any bias towards the vine program. 
